@@ -13,11 +13,16 @@ You can click the Preview link to take a look at your changes.
 ### Oi sou Sidney Rodrigo, estudante entusiasta da área de TI.
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
+<hr>
+
+### Hi, I'm Sidney Rodrigo, an enthusiastic IT student.
+- I am currently studying Systems Analysis and Development.
+
 ##
 
 <div align="center">
   <a href="https://github.com/sidneyrodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneyrodrigo&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneyrodrigo&show_icons=true&theme=holi&include_all_commits=false&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyrodrigo&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
